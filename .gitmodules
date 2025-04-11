@@ -1,6 +1,6 @@
 [submodule "CarzCo-Frontend"]
-	path = CarzCo-Frontend
-	url = https://github.com/locwa/CarzCo-Frontend.git
+	path = CarzCo-Client-Facing
+	url = https://github.com/locwa/CarzCo-Client-Facing.git
 [submodule "CarzCo-Portal-App"]
 	path = CarzCo-Portal-App
 	url = https://github.com/locwa/CarzCo-Portal-App.git
